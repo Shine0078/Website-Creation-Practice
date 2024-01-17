@@ -1,0 +1,5 @@
+Sign out SUCCESS  at 2023-11-19 0:50:11. User  Sign out.
+Sign in  failed  at 2023-11-19 0:50:16. User jdoe@dcmail.ca Sign in .
+Sign in success   at 2023-11-19 0:50:24. User jdoe@dcmail.ca Sign in.
+Sign out SUCCESS  at 2023-11-19 19:23:26. User  Sign out.
+Sign in success   at 2023-11-19 19:23:39. User jdoe@dcmail.ca Sign in.

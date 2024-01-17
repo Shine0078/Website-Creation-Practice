@@ -1,0 +1,6 @@
+Sign in  failed  at 2023-10-25 17:38:21. User jdoe@dcmail.ca Sign in .
+Sign out SUCCESS  at 2023-10-25 17:57:12. User  Sign out.
+Sign in success   at 2023-10-25 17:57:20. User jdoe@dcmail.ca Sign in.
+Sign in success   at 2023-10-25 18:09:14. User jdoe@dcmail.ca Sign in.
+Sign in success   at 2023-10-25 18:09:24. User jdoe@dcmail.ca Sign in.
+Sign in success   at 2023-10-25 18:09:35. User jdoe@dcmail.ca Sign in.
